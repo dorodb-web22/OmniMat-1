@@ -1,0 +1,16 @@
+id,cpse,legacy_code,raw_description,noun,material,grade,size
+1,ONGC,ONG-PIP-001,"6 inch Carbon Steel Seamless Pipe Grade API 5L B",Pipe,Carbon Steel,API 5L B,6 inch
+2,IOCL,IOC-PIP-4421,"CS Seamless Pipe 6in API5L Gr.B",Pipe,Carbon Steel,API 5L B,6 inch
+3,BPCL,BPC-PIP-098,"Carbon Steel Seamless Pipe 4 inch Grade API 5L B",Pipe,Carbon Steel,API 5L B,4 inch
+4,HPCL,HPC-PIP-770,"6 inch SS 316 Welded Pipe Schedule 40",Pipe,Stainless Steel,316,6 inch
+5,ONGC,ONG-PIP-055,"Stainless Steel Welded Pipe 6in Grade 316 Sch40",Pipe,Stainless Steel,316,6 inch
+6,GAIL,GAI-PIP-300,"SS 304 Welded Pipe 6 inch Schedule 40",Pipe,Stainless Steel,304,6 inch
+7,ONGC,ONG-BLT-101,"M10 SS Hex Bolt Grade A2-70",Bolt,Stainless Steel,A2-70,M10
+8,IOCL,IOC-BLT-550,"Stainless Steel Hex Bolt M10 A2-70",Bolt,Stainless Steel,A2-70,M10
+9,BPCL,BPC-BLT-032,"SS Hex Head Bolt M10 Grade A4-80",Bolt,Stainless Steel,A4-80,M10
+10,HPCL,HPC-BLT-410,"Hex Bolt M12 Carbon Steel Grade 8.8",Bolt,Carbon Steel,8.8,M12
+11,GAIL,GAI-BLT-088,"CS Hex Bolt M12 Gr.8.8",Bolt,Carbon Steel,8.8,M12
+12,ONGC,ONG-VLV-201,"2 inch Gate Valve 150# CF8M Body",Valve,Stainless Steel,CF8M,2 inch
+13,IOCL,IOC-VLV-670,"SS Gate Valve 2in 150 LB CF8M",Valve,Stainless Steel,CF8M,2 inch
+14,BPCL,BPC-VLV-045,"Gate Valve 2 inch 150# Cast Steel Body",Valve,Cast Steel,,2 inch
+15,HPCL,HPC-VLV-390,"2 inch Ball Valve 300# CF8M Body",Valve,Stainless Steel,CF8M,2 inch
